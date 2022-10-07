@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+}
+
+div{
+    background-color: blanchedalmond;
+    padding: 15px;
+    justify-content: center;
+    border: 2px solid black
+}
+form {
+    background-color: thistle;
+    display: flex;
+    padding: 25px;
+    justify-content:flex-start;
+
+
+}
+button {
+    background-color: azure;
+    text-size-adjust: ;
+    font-size: 15px;
+}

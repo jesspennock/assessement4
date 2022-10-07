@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Zaffre",
+      "hex":  "#0014A8"
+    },
+    {
+      "id": 2,
+      "name": "Razzmatazz",
+      "hex": "#E3256B"
+    },
+    {
+      "id": 3,
+      "name": "Milk and Water",
+      "hex": "#F6F6FF"
+    },
+    {
+    "id": 4,
+    "name":"Gingerline",
+    "hex": "#FCCB4F"
+    }
+  ]
